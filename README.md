@@ -1,6 +1,7 @@
-### It's Jeel here 👋
+
 <h1 align="center">Hi 👋, I'm Jeel</h1>
 <h3 align="center">Backend and Frontend Android Developer</h3>
+<a href="https://app.daily.dev/alph_a07"><img src="https://api.daily.dev/devcards/d9652bbadddc4603a5715d5dd7ddd258.png?r=0wr" width="300" alt="Jeel Patel's Dev Card" align="right"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alph-a07&label=Profile%20views&color=0e75b6&style=flat" alt="alph-a07" /> </p>
 
@@ -31,7 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alph-a07&show_icons=true&locale=en" alt="alph-a07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alph-a07&" alt="alph-a07" /></p>
-<a href="https://app.daily.dev/alph_a07"><img src="https://api.daily.dev/devcards/d9652bbadddc4603a5715d5dd7ddd258.png?r=0wr" width="300" alt="Jeel Patel's Dev Card" align="right"/></a>
+
 <!--
 **alph-a07/alph-a07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
