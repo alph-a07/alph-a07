@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jeel</h1>
 <h3 align="center">Backend and Frontend Android Developer</h3>
-<a href="https://app.daily.dev/alph_a07"><img src="https://api.daily.dev/devcards/d9652bbadddc4603a5715d5dd7ddd258.png?r=0wr" width="300" align="center" alt="Jeel Patel's Dev Card"/></a>
+<a href="https://app.daily.dev/alph_a07"><img src="https://api.daily.dev/devcards/d9652bbadddc4603a5715d5dd7ddd258.png?r=ig0" width="300" alt="Jeel Patel's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alph-a07&label=Profile%20views&color=0e75b6&style=flat" alt="alph-a07" /> </p>
 
