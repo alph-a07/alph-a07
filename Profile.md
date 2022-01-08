@@ -38,6 +38,7 @@
 <a href="https://firebase.google.com">
   <img src="https://img.shields.io/badge/Tools-Firebase-ffff00?style=flat&logo=firebase"> </a>
 </span>
+<br>
 
 👨🏻‍💻 Currently learning **DSA, Web Dev and Android APIs**
 
