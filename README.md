@@ -1,6 +1,6 @@
 ![Header](https://github.com/alph-a07/alph-a07/blob/main/header4.gif "Header")
 <h1 align="center">Development begins from within.</h1>
-<h3>Hey👋🏻,Jeel here.</h3>
+<h3>Hey👋🏻, Jeel here.</h3>
 <a href="https://app.daily.dev/alph_a07"><img src="https://api.daily.dev/devcards/d9652bbadddc4603a5715d5dd7ddd258.png?r=ig0" align="center" width="230" height="" alt="Jeel's Dev Card" /></a>
 <br>
 <br>
@@ -39,13 +39,11 @@
   <img src="https://img.shields.io/badge/Tools-Firebase-ffff00?style=flat&logo=firebase"> </a>
 </span>
 
-- 🌱 I’m currently learning **DSA and Android APIs**
+- 👨🏻‍💻 Currently learning **DSA, Web Dev and Android APIs**
 
-- 👨‍💻 Java source codes [https://github.com/alph-a07/JavaSourceCodes](https://github.com/alph-a07/JavaSourceCodes)
+- 🔗 DSA Source Codes [Click Here](https://github.com/alph-a07/JavaSourceCodes)
 
-- 📫 How to reach me **itsjeel01@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/alph-a07/Achievements](https://github.com/alph-a07/Achievements)
+- 🏆 Achievements [Click Here](https://github.com/alph-a07/Achievements)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,5 +52,7 @@
 &nbsp;<a href="https://twitter.com/atheist_23" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670211.png?token=exp=1641678032~hmac=837903331d33ee50c9553d10ddfca826" alt="atheist_23" width="40" /></a>
 &nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsjeel01@gmail.com" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3686/premium/3686989.png?token=exp=1641678500~hmac=82f53a9e3404480ab18ecf07edbd7ead" alt="Text Me" width="40"/></a>
 </p>
-<br>
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=alph_a07)](https://github.com/anuraghazra/github-readme-stats)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=alph-a07&theme=midnight-purple&show_icons=true&count_private=true&border_color=000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=midnight-purple&show_icons=true&count_private=true&border_color=000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
