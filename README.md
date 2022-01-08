@@ -11,8 +11,10 @@
 <img src="https://img.shields.io/badge/Editor-Intellij-blueviolet?style=flat&logo=intellijidea">
 <img src="https://img.shields.io/badge/Editor-Android Studio-blueviolet?style=flat&logo=androidstudio">
 <img src="https://img.shields.io/badge/Editor-VS Code-blueviolet?style=flat&logo=visualstudiocode">
-  
-<img src="https://img.shields.io/badge/Code-Java-important?style=flat&logo=java" href="https://www.microsoft.com/en-in/windows/windows-11">
+
+<a href="https://www.microsoft.com/en-in/windows/windows-11">
+<img src="https://img.shields.io/badge/Code-Java-important?style=flat&logo=java">
+</a>
 <img src="https://img.shields.io/badge/Code-Kotlin-important?style=flat&logo=kotlin">
 <img src="https://img.shields.io/badge/Code-XML-important?style=flat&logo=xaml">
 <img src="https://img.shields.io/badge/Code-HTML-important?style=flat&logo=html5">
