@@ -47,9 +47,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/atheist_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atheist_23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jeel-patel-787258216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeel-patel-787258216" height="30" width="40" /></a>
-<a href="https://instagram.com/@atheist.23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@atheist.23" height="30" width="40" /></a>
+<a href="https://twitter.com/atheist_23" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670211.png?token=exp=1641678032~hmac=837903331d33ee50c9553d10ddfca826" alt="atheist_23" width="40" /></a>
+&nbsp;<a href="https://linkedin.com/in/jeel-patel-787258216" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1641678140~hmac=337acfecc698fe84c62f04ab44f930d7" alt="jeel-patel-787258216" width="40" /></a>
+&nbsp;<a href="https://instagram.com/@atheist.23" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="@atheist.23" width="40" /></a>
+&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsjeel01@gmail.com" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178364.png?token=exp=1641678495~hmac=cb08e8ab32c2b70be484c42d3b736dc2" alt="Text Me" width="40"/></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alph-a07&show_icons=true&locale=en&layout=compact" alt="alph-a07" /></p>
