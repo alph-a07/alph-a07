@@ -1,11 +1,9 @@
 ![Header](https://github.com/alph-a07/alph-a07/blob/main/header4.gif "Header")
 <h1 align="center">Development begins from within.</h1>
 <h3>Hey👋🏻, Jeel here.</h3>
-
-<br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alph-a07&label=PROFILE%20VIEWS%20&color=red&style=flat" alt="alph-a07" /> </p>
-
+<br>
 <span>
 <a href="https://www.microsoft.com/en-in/windows/windows-11">
 <img src="https://img.shields.io/badge/OS-Windows-0099ff?style=flat&logo=windows"></a>  
