@@ -1,7 +1,6 @@
 ![Header](https://github.com/alph-a07/alph-a07/blob/main/header4.gif "Header")
 <h1 align="center">Development begins from within.</h1>
 <h3>Hey👋🏻, Jeel here.</h3>
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alph-a07&label=PROFILE%20VIEWS%20&color=red&style=flat" alt="alph-a07" /> </p>
 <br>
 <span>
