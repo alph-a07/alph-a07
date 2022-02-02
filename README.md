@@ -55,4 +55,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alph-a07&theme=midnight-purple&show_icons=true&count_private=true&border_color=000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=midnight-purple&show_icons=true&count_private=true&border_color=000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsjeel01@gmail.com" target="blank"><div align="center"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4144/4144845.png" alt="Text Me" width="40"/>  itsjeel01@gmail.com</div></a>
 
