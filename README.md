@@ -1,5 +1,5 @@
 ![Header](https://github.com/alph-a07/alph-a07/blob/main/static_header%20(3).png "Header")
-<h1 align="center">Development begins from within.</h1>
+<br>
 <h3>Hey👋🏻, Jeel here.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alph-a07&label=PROFILE%20VIEWS%20&color=red&style=flat" alt="alph-a07" /> </p>
 <br>
@@ -16,19 +16,19 @@
 <a href="https://code.visualstudio.com/">
   <img src="https://img.shields.io/badge/Editor-VS Code-blueviolet?style=flat&logo=visualstudiocode"> </a>
 <br>
-
 <a href="https://docs.oracle.com/javase/8/docs/">
   <img src="https://img.shields.io/badge/Code-Java-important?style=flat&logo=java"> </a>
 <a href="https://kotlinlang.org/docs/home.html">
   <img src="https://img.shields.io/badge/Code-Kotlin-important?style=flat&logo=kotlin"> </a>
 <a href="https://www.w3.org/XML/">
   <img src="https://img.shields.io/badge/Code-XML-important?style=flat&logo=xaml"> </a>
+  <!---
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://img.shields.io/badge/Code-HTML-important?style=flat&logo=html5"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://img.shields.io/badge/Code-CSS-important?style=flat&logo=css3"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/Code-JavaScript-important?style=flat&logo=javascript"> </a>
+  <img src="https://img.shields.io/badge/Code-JavaScript-important?style=flat&logo=javascript"> </a> --->
 <br>  
 <a href="https://www.gnu.org/software/bash/">
   <img src="https://img.shields.io/badge/Shell-Bash-success?style=flat&logo=gnubash"> </a>
@@ -48,7 +48,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jeel-patel-787258216" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111368.png" alt="jeel-patel-787258216" width="40" /></a>
+<a href="https://linkedin.com/in/jeel-patel-787258216" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/linkedin.png" alt="jeel-patel-787258216" width="40" /></a>
 &nbsp;<a href="https://instagram.com/@atheist.23" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111336.png" alt="@atheist.23" width="40" /></a>
 &nbsp;<a href="https://twitter.com/atheist_23" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111580.png" alt="atheist_23" width="40" /></a>
 </p>
