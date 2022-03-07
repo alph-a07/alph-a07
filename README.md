@@ -48,13 +48,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jeel-patel-787258216" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/linkedin.png" alt="jeel-patel-787258216" width="40" /></a>
-&nbsp;<a href="https://instagram.com/@atheist.23" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111336.png" alt="@atheist.23" width="40" /></a>
-&nbsp;<a href="https://twitter.com/atheist_23" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111580.png" alt="atheist_23" width="40" /></a>
+<a href="https://linkedin.com/in/jeel-patel-787258216" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/linkedin.png" alt="Linkedin" width="40" /></a>
+&nbsp;<a href="https://instagram.com/@atheist.23" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/instagram.png" alt="Instagram" width="40" /></a>
+&nbsp;<a href="https://twitter.com/atheist_23" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/twitter.png" alt="Twitter" width="40" /></a>
+&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsjeel01@gmail.com" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/mail.png" alt="Mail" width="40" /></a>
 </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=alph-a07&theme=midnight-purple&show_icons=true&count_private=true&border_color=000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=midnight-purple&show_icons=true&count_private=true&border_color=000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsjeel01@gmail.com" target="blank"><div align="center"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4144/4144845.png" alt="Text Me" width="40"/>  itsjeel01@gmail.com</div></a>
+
 
