@@ -1,4 +1,4 @@
-![Header](https://github.com/alph-a07/alph-a07/blob/main/header4.gif "Header")
+![Header](https://github.com/alph-a07/alph-a07/blob/main/static_header%20(2).png "Header")
 <h1 align="center">Development begins from within.</h1>
 <h3>Hey👋🏻, Jeel here.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alph-a07&label=PROFILE%20VIEWS%20&color=red&style=flat" alt="alph-a07" /> </p>
