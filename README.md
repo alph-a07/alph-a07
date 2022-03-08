@@ -38,13 +38,13 @@
 <br>
 <br> 
 
-👨🏻‍💻 Currently learning **DSA, Web Dev and Android APIs**
+💻 Currently learning **DSA, Web Dev and Android APIs**
 
-🔗 DSA Source Codes [Click Here](https://github.com/alph-a07/JavaSourceCodes)
+🗒️ DSA Source Codes [Click Here](https://github.com/alph-a07/JavaSourceCodes)
 
 🏆 Achievements [Click Here](https://github.com/alph-a07/Achievements)
 
-📱 Android Apps [Click Here](https://github.com/alph-a07/Android-App-Development)
+📲 Android Apps [Click Here](https://github.com/alph-a07/Android-App-Development)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
