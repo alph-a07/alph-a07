@@ -1,4 +1,4 @@
-![Header](https://github.com/alph-a07/alph-a07/blob/main/static_header%20(5).png "Header")
+![Header](https://github.com/alph-a07/alph-a07/blob/main/anim_header%20(3).gif "Header")
 <br>
 <h3>Hey👋🏻, Jeel here.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alph-a07&label=PROFILE%20VIEWS%20&color=red&style=flat" alt="alph-a07" /> </p>
@@ -52,6 +52,7 @@
 &nbsp;<a href="https://instagram.com/@atheist.23" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/instagram.png" alt="Instagram" width="40" /></a>
 &nbsp;<a href="https://twitter.com/atheist_23" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/twitter.png" alt="Twitter" width="40" /></a>
 &nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsjeel01@gmail.com" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/mail.png" alt="Mail" width="40" /></a>
+  &nbsp;<a href="https://leetcode.com/alph_a07/" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/leetcode1.png" alt="LeetCode" width="40" /></a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=midnight-purple&show_icons=true&count_private=true&border_color=000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
