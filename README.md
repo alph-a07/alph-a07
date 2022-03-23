@@ -1,7 +1,7 @@
 ![Header](https://github.com/alph-a07/alph-a07/blob/main/anim_header%20(3).gif "Header")
 <br>
 <h3>Hey👋🏻, Jeel here.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alph-a07&label=PROFILE%20VIEWS%20&color=red&style=flat" alt="alph-a07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alph-a07&label=Profile%20Views%20&color=1cb800&style=flat" alt="alph-a07" /> </p>
 <br>
 <span>
 <a href="https://www.microsoft.com/en-in/windows/windows-11">
@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/Code-Kotlin-important?style=flat&logo=kotlin"> </a>
 <a href="https://www.w3.org/XML/">
   <img src="https://img.shields.io/badge/Code-XML-important?style=flat&logo=xaml"> </a>
+<a href="https://developer.android.com/">
+  <img src="https://img.shields.io/badge/Dev-Android-important?style=flat&logo=android"> </a>
   <!---
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://img.shields.io/badge/Code-HTML-important?style=flat&logo=html5"> </a>
@@ -31,9 +33,11 @@
   <img src="https://img.shields.io/badge/Code-JavaScript-important?style=flat&logo=javascript"> </a> --->
 <br>  
 <a href="https://www.gnu.org/software/bash/">
-  <img src="https://img.shields.io/badge/Shell-Bash-success?style=flat&logo=gnubash"> </a>
+  <img src="https://img.shields.io/badge/Shell-Bash-00c990?style=flat&logo=gnubash"> </a>
 <a href="https://firebase.google.com">
   <img src="https://img.shields.io/badge/Tools-Firebase-ffff00?style=flat&logo=firebase"> </a>
+<a href="https://leetcode.com">
+  <img src="https://img.shields.io/badge/Competitive-LeetCode-ff3643?style=flat&logo=leetcode"> </a>
 </span>
 <br>
 <br> 
@@ -54,7 +58,6 @@
 &nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsjeel01@gmail.com" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/mail.png" alt="Mail" width="40" /></a>
   &nbsp;<a href="https://leetcode.com/alph_a07/" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/leetcode1.png" alt="LeetCode" width="40" /></a>
 </p>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=midnight-purple&show_icons=true&count_private=true&border_color=000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=chartreuse-dark&show_icons=true&count_private=true&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
