@@ -42,7 +42,7 @@
 <br>
 <br> 
 
-💻 Currently learning **DSA, Web Dev and Android APIs**
+💻 Currently learning **DSA, Competitive coding and Android APIs**
 
 🗒️ DSA Source Codes [Click Here](https://github.com/alph-a07/JavaSourceCodes)
 
