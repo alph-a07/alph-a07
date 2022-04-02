@@ -32,8 +32,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://img.shields.io/badge/Code-JavaScript-important?style=flat&logo=javascript"> </a> --->
 <br>  
-<a href="https://www.gnu.org/software/bash/">
-  <img src="https://img.shields.io/badge/Shell-Bash-00c990?style=flat&logo=gnubash"> </a>
+<a href="https://www.canva.com">
+  <img src="https://img.shields.io/badge/Design-Canva-00c990?style=flat&logo=canva"> </a>
 <a href="https://firebase.google.com">
   <img src="https://img.shields.io/badge/Tools-Firebase-ffff00?style=flat&logo=firebase"> </a>
 <a href="https://leetcode.com">
