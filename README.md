@@ -9,13 +9,6 @@
 <a href="https://www.amazon.in/Dell-15-6-inch-i5-10300H-NVIDIA1650-D560253HIN9BE/dp/B08H9W26LF">
 <img src="https://img.shields.io/badge/Device-Dell G3-0099ff?style=flat&logo=dell"></a> 
 <br>  
-<a href="https://www.jetbrains.com/idea/">
-  <img src="https://img.shields.io/badge/Editor-Intellij-blueviolet?style=flat&logo=intellijidea"> </a> 
-<a href="https://developer.android.com/studio">
-  <img src="https://img.shields.io/badge/Editor-Android Studio-blueviolet?style=flat&logo=androidstudio"> </a>
-<a href="https://code.visualstudio.com/">
-  <img src="https://img.shields.io/badge/Editor-VS Code-blueviolet?style=flat&logo=visualstudiocode"> </a>
-<br>
 <a href="https://docs.oracle.com/javase/8/docs/">
   <img src="https://img.shields.io/badge/Code-Java-important?style=flat&logo=java"> </a>
 <a href="https://kotlinlang.org/docs/home.html">
@@ -24,6 +17,13 @@
   <img src="https://img.shields.io/badge/Code-XML-important?style=flat&logo=xaml"> </a>
 <a href="https://developer.android.com/">
   <img src="https://img.shields.io/badge/Dev-Android-important?style=flat&logo=android"> </a>
+<br>
+<a href="https://www.jetbrains.com/idea/">
+  <img src="https://img.shields.io/badge/Editor-Intellij-blueviolet?style=flat&logo=intellijidea"> </a> 
+<a href="https://developer.android.com/studio">
+  <img src="https://img.shields.io/badge/Editor-Android Studio-blueviolet?style=flat&logo=androidstudio"> </a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/Editor-VS Code-blueviolet?style=flat&logo=visualstudiocode"> </a>
   <!---
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://img.shields.io/badge/Code-HTML-important?style=flat&logo=html5"> </a>
@@ -33,9 +33,9 @@
   <img src="https://img.shields.io/badge/Code-JavaScript-important?style=flat&logo=javascript"> </a> --->
 <br>  
 <a href="https://www.canva.com">
-  <img src="https://img.shields.io/badge/Design-Canva-00c990?style=flat&logo=canva"> </a>
+  <img src="https://img.shields.io/badge/Design-Canva-ff3643?style=flat&logo=canva"> </a>
 <a href="https://firebase.google.com">
-  <img src="https://img.shields.io/badge/Tools-Firebase-ffff00?style=flat&logo=firebase"> </a>
+  <img src="https://img.shields.io/badge/Tools-Firebase-ff3643?style=flat&logo=firebase"> </a>
 <a href="https://leetcode.com">
   <img src="https://img.shields.io/badge/Competitive-LeetCode-ff3643?style=flat&logo=leetcode"> </a>
 </span>
@@ -60,4 +60,12 @@
 </p>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=chartreuse-dark&show_icons=true&count_private=true&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/alph-a07"><img src="https://github-readme-stats.vercel.app/api?username=alph-a07&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="alph-a07's GitHub stats" /></a>
+
+<a href="http://www.github.com/alph-a07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alph-a07&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/alph-a07"><img src="https://activity-graph.herokuapp.com/graph?username=alph-a07&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/alph-a07" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
