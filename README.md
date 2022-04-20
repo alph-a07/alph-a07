@@ -1,6 +1,6 @@
 ![Header](https://github.com/alph-a07/alph-a07/blob/main/anim_header%20(3).gif "Header")
 <br>
-<h3>Hey👋🏻, Jeel here.</h3>
+<h2>Hey👋🏻, Jeel here.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alph-a07&label=Profile%20Views%20&color=red&style=flat" alt="alph-a07" /> </p>
 <br>
 <span>
@@ -49,22 +49,20 @@
 🏆 Achievements [Click Here](https://github.com/alph-a07/Achievements)
 
 📲 Android Apps [Click Here](https://github.com/alph-a07/Android-App-Development)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jeel-patel-787258216" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/linkedin.png" alt="Linkedin" width="40" /></a>
-&nbsp;<a href="https://instagram.com/@atheist.23" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/instagram.png" alt="Instagram" width="40" /></a>
-&nbsp;<a href="https://twitter.com/atheist_23" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/twitter.png" alt="Twitter" width="40" /></a>
-&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsjeel01@gmail.com" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/mail.png" alt="Mail" width="40" /></a>
+<br>
+<br>
+<p align="center">
+<a href="https://linkedin.com/in/jeel-patel-787258216" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/linkedin.png" alt="Linkedin" width="40" /></a>&nbsp;
+&nbsp;<a href="https://instagram.com/@atheist.23" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/instagram.png" alt="Instagram" width="40" /></a>&nbsp;
+&nbsp;<a href="https://twitter.com/atheist_23" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/twitter.png" alt="Twitter" width="40" /></a>&nbsp;
+&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsjeel01@gmail.com" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/mail.png" alt="Mail" width="40" /></a>&nbsp;
   &nbsp;<a href="https://leetcode.com/alph_a07/" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/leetcode1.png" alt="LeetCode" width="40" /></a>
 </p>
 <br>
 
-<b>My GitHub Stats</b>
+<h2>My GitHub Stats</h2>
 
 <a href="http://www.github.com/alph-a07"><img src="https://github-readme-stats.vercel.app/api?username=alph-a07&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="alph-a07's GitHub stats" /></a>
-
-<a href="http://www.github.com/alph-a07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alph-a07&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/alph-a07"><img src="https://activity-graph.herokuapp.com/graph?username=alph-a07&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
