@@ -1,7 +1,7 @@
 ![Header](https://github.com/alph-a07/alph-a07/blob/main/anim_header%20(3).gif "Header")
 <br>
 <h3>Hey👋🏻, Jeel here.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alph-a07&label=Profile%20Views%20&color=1cb800&style=flat" alt="alph-a07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alph-a07&label=Profile%20Views%20&color=red&style=flat" alt="alph-a07" /> </p>
 <br>
 <span>
 <a href="https://www.microsoft.com/en-in/windows/windows-11">
@@ -19,11 +19,11 @@
   <img src="https://img.shields.io/badge/Dev-Android-important?style=flat&logo=android"> </a>
 <br>
 <a href="https://www.jetbrains.com/idea/">
-  <img src="https://img.shields.io/badge/Editor-Intellij-blueviolet?style=flat&logo=intellijidea"> </a> 
+  <img src="https://img.shields.io/badge/Editor-Intellij-1cb800?style=flat&logo=intellijidea"> </a> 
 <a href="https://developer.android.com/studio">
-  <img src="https://img.shields.io/badge/Editor-Android Studio-blueviolet?style=flat&logo=androidstudio"> </a>
+  <img src="https://img.shields.io/badge/Editor-Android Studio-1cb800?style=flat&logo=androidstudio"> </a>
 <a href="https://code.visualstudio.com/">
-  <img src="https://img.shields.io/badge/Editor-VS Code-blueviolet?style=flat&logo=visualstudiocode"> </a>
+  <img src="https://img.shields.io/badge/Editor-VS Code-1cb800?style=flat&logo=visualstudiocode"> </a>
   <!---
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://img.shields.io/badge/Code-HTML-important?style=flat&logo=html5"> </a>
