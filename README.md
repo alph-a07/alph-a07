@@ -46,7 +46,7 @@
 <br>
 <br> 
 
-💻 Currently learning **DSA, Competitive coding and Android APIs**
+💻 Currently learning **DSA, Competitive coding, Flutter and Android APIs**
 
 🗒️ DSA Source Codes [Click Here](https://github.com/alph-a07/JavaSourceCodes)
 
