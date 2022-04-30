@@ -15,8 +15,12 @@
   <img src="https://img.shields.io/badge/Code-Kotlin-important?style=flat&logo=kotlin"> </a>
 <a href="https://www.w3.org/XML/">
   <img src="https://img.shields.io/badge/Code-XML-important?style=flat&logo=xaml"> </a>
+<a href="https://dart.dev/">
+  <img src="https://img.shields.io/badge/Code-Dart-important?style=flat&logo=dart"> </a>
 <a href="https://developer.android.com/">
   <img src="https://img.shields.io/badge/Dev-Android-important?style=flat&logo=android"> </a>
+<a href="https://flutter.dev/">
+  <img src="https://img.shields.io/badge/Dev-Flutter-important?style=flat&logo=flutter"> </a>
 <br>
 <a href="https://www.jetbrains.com/idea/">
   <img src="https://img.shields.io/badge/Editor-Intellij-1cb800?style=flat&logo=intellijidea"> </a> 
