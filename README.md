@@ -1,7 +1,7 @@
 ![Header](https://github.com/alph-a07/alph-a07/blob/main/header_30042022.gif "Header")
 <br>
 <h2>Hey👋🏻, Jeel here.</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alph-a07&label=Profile%20Views%20&color=red&style=flat" alt="alph-a07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alph-a07&label=Profile%20Views%20&color=yellow&style=flat" alt="alph-a07" /> </p>
 <br>
 <span>
 <a href="https://www.microsoft.com/en-in/windows/windows-11">
