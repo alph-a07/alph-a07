@@ -37,11 +37,11 @@
   <img src="https://img.shields.io/badge/Code-JavaScript-important?style=flat&logo=javascript"> </a> --->
 <br>  
 <a href="https://www.canva.com">
-  <img src="https://img.shields.io/badge/Design-Canva-00a6ff?style=flat&logo=canva"> </a>
+  <img src="https://img.shields.io/badge/Design-Canva-8400ff?style=flat&logo=canva"> </a>
 <a href="https://firebase.google.com">
-  <img src="https://img.shields.io/badge/Tools-Firebase-00a6ff?style=flat&logo=firebase"> </a>
+  <img src="https://img.shields.io/badge/Tools-Firebase-8400ff?style=flat&logo=firebase"> </a>
 <a href="https://leetcode.com">
-  <img src="https://img.shields.io/badge/Competitive-LeetCode-00a6ff?style=flat&logo=leetcode"> </a>
+  <img src="https://img.shields.io/badge/Competitive-LeetCode-8400ff?style=flat&logo=leetcode"> </a>
 </span>
 <br>
 <br> 
