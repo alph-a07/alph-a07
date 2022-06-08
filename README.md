@@ -1,4 +1,5 @@
-<a href ="https://github.com/alph-a07">![App Developer](https://user-images.githubusercontent.com/83648189/172465554-11dd3daa-6d3b-47c5-a81c-804a4b5d1354.png)</a>
+<a href ="https://github.com/alph-a07">![App Developer](https://user-images.githubusercontent.com/83648189/172589407-53ac5cb9-96e6-4a71-805b-b0ff938ae83c.png)</a>
+
 <br>
 <h2>Hey👋🏻, Jeel here.</h2>
 
