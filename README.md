@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alph-a07&label=Profile%20Views%20&color=ff3643&style=flat" alt="alph-a07" /> </p>
 <br>
+
+<p align="center">
 <span>
 <a href="https://www.microsoft.com/en-in/windows/windows-11">
 <img src="https://img.shields.io/badge/OS-Windows-0099ff?style=flat&logo=windows"></a>  
@@ -44,8 +46,8 @@
 <a href="https://leetcode.com">
   <img src="https://img.shields.io/badge/Competitive-LeetCode-8400ff?style=flat&logo=leetcode"> </a>
 </span>
+</p>
 <br>
-<br> 
 
 💻 Currently learning **DSA, Competitive coding, Flutter and Android APIs**
 
