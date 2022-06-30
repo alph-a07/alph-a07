@@ -43,9 +43,13 @@
 <a href="https://www.canva.com">
   <img src="https://img.shields.io/badge/Design-Canva-8400ff?style=flat&logo=canva"> </a>
 <a href="https://firebase.google.com">
-  <img src="https://img.shields.io/badge/Tools-Firebase-8400ff?style=flat&logo=firebase"> </a>
+  <img src="https://img.shields.io/badge/Database-Firebase-8400ff?style=flat&logo=firebase"> </a>
 <a href="https://leetcode.com">
   <img src="https://img.shields.io/badge/Competitive-LeetCode-8400ff?style=flat&logo=leetcode"> </a>
+  <a href="https://leetcode.com">
+  <img src="https://img.shields.io/badge/Editing-Photoshop-8400ff?style=flat&logo=adobephotoshop"> </a>
+  <a href="https://leetcode.com">
+  <img src="https://img.shields.io/badge/Editing-Lightroom-8400ff?style=flat&logo=adobelightroom"> </a>
 </span>
 </p>
 <br>
