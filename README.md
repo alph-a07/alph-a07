@@ -41,15 +41,15 @@
   <img src="https://img.shields.io/badge/Code-JavaScript-important?style=flat&logo=javascript"> </a> --->
 <br>  
 <a href="https://www.canva.com">
-  <img src="https://img.shields.io/badge/Design-Canva-8400ff?style=flat&logo=canva"> </a>
+  <img src="https://img.shields.io/badge/Design-Canva-5bb500?style=flat&logo=canva"> </a>
 <a href="https://firebase.google.com">
-  <img src="https://img.shields.io/badge/Database-Firebase-8400ff?style=flat&logo=firebase"> </a>
+  <img src="https://img.shields.io/badge/Database-Firebase-5bb500?style=flat&logo=firebase"> </a>
 <a href="https://leetcode.com">
-  <img src="https://img.shields.io/badge/Competitive-LeetCode-8400ff?style=flat&logo=leetcode"> </a>
+  <img src="https://img.shields.io/badge/Competitive-LeetCode-5bb500?style=flat&logo=leetcode"> </a>
   <a href="https://leetcode.com">
-  <img src="https://img.shields.io/badge/Editing-Photoshop-8400ff?style=flat&logo=adobephotoshop"> </a>
+  <img src="https://img.shields.io/badge/Editing-Photoshop-5bb500?style=flat&logo=adobephotoshop"> </a>
   <a href="https://leetcode.com">
-  <img src="https://img.shields.io/badge/Editing-Lightroom-8400ff?style=flat&logo=adobelightroom"> </a>
+  <img src="https://img.shields.io/badge/Editing-Lightroom-5bb500?style=flat&logo=adobelightroom"> </a>
 </span>
 </p>
 <br>
@@ -60,15 +60,16 @@
 
 🏆 Achievements [Click Here](https://github.com/alph-a07/Achievements)
 
-✉️ ChatBox [Click Here](https://github.com/alph-a07/ChatBox)
+🧑🏻‍💻 Leetcode Profile [Click Here](https://leetcode.com/alph_a07/)
 <br>
 <br>
+
 <p align="center">
-<a href="https://linkedin.com/in/jeel-patel-787258216" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/linkedin.png" alt="Linkedin" width="40" /></a>&nbsp;
-&nbsp;<a href="https://instagram.com/@atheist.23" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/instagram.png" alt="Instagram" width="40" /></a>&nbsp;
-&nbsp;<a href="https://twitter.com/atheist_23" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/twitter.png" alt="Twitter" width="40" /></a>&nbsp;
-&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsjeel01@gmail.com" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/mail.png" alt="Mail" width="40" /></a>&nbsp;
-  &nbsp;<a href="https://leetcode.com/alph_a07/" target="blank"><img align="center" src="https://github.com/alph-a07/alph-a07/blob/main/leetcode1.png" alt="LeetCode" width="40" /></a>
+<a href="https://linkedin.com/in/jeel-patel-787258216" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178805748-d5532f88-e065-43b5-b157-61291bbb9066.png" alt="Linkedin" width="40" /></a>&nbsp;
+&nbsp;<a href="https://instagram.com/@atheist.23" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178805525-6f096bc5-daf9-4674-8b21-e63f26d917cd.png" alt="Instagram" width="40" /></a>&nbsp;
+&nbsp;<a href="https://twitter.com/atheist_23" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178806800-88755c6e-c429-4620-8ffd-23c9d299348e.png" alt="Twitter" width="40" /></a>&nbsp;
+&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsjeel01@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178806196-94a94d5f-7ef1-4a9d-a080-ee4e1410e010.png" alt="Mail" width="40" /></a>
+
 </p>
 <br>
 
