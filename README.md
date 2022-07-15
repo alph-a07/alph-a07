@@ -65,10 +65,10 @@
 <br>
 
 <p align="center">
-<a href="https://linkedin.com/in/jeel-patel-787258216" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178805748-d5532f88-e065-43b5-b157-61291bbb9066.png" alt="Linkedin" width="40" /></a>&nbsp;
-&nbsp;<a href="https://instagram.com/@atheist.23" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178805525-6f096bc5-daf9-4674-8b21-e63f26d917cd.png" alt="Instagram" width="40" /></a>&nbsp;
-&nbsp;<a href="https://twitter.com/atheist_23" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178806800-88755c6e-c429-4620-8ffd-23c9d299348e.png" alt="Twitter" width="40" /></a>&nbsp;
-&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsjeel01@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178806196-94a94d5f-7ef1-4a9d-a080-ee4e1410e010.png" alt="Mail" width="40" /></a>
+<a href="https://linkedin.com/in/jeel-patel-787258216" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178805748-d5532f88-e065-43b5-b157-61291bbb9066.png" alt="Linkedin" width="35" /></a>&nbsp;
+&nbsp;<a href="https://instagram.com/@atheist.23" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178805525-6f096bc5-daf9-4674-8b21-e63f26d917cd.png" alt="Instagram" width="35" /></a>&nbsp;
+&nbsp;<a href="https://twitter.com/atheist_23" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178806800-88755c6e-c429-4620-8ffd-23c9d299348e.png" alt="Twitter" width="35" /></a>&nbsp;
+&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsjeel01@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178806196-94a94d5f-7ef1-4a9d-a080-ee4e1410e010.png" alt="Mail" width="35" /></a>
 
 </p>
 <br>
