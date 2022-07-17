@@ -46,10 +46,12 @@
   <img src="https://img.shields.io/badge/Database-Firebase-5bb500?style=flat&logo=firebase"> </a>
 <a href="https://leetcode.com">
   <img src="https://img.shields.io/badge/Competitive-LeetCode-5bb500?style=flat&logo=leetcode"> </a>
-  <a href="https://leetcode.com">
+  <a href="">
   <img src="https://img.shields.io/badge/Editing-Photoshop-5bb500?style=flat&logo=adobephotoshop"> </a>
-  <a href="https://leetcode.com">
+  <a href="">
   <img src="https://img.shields.io/badge/Editing-Lightroom-5bb500?style=flat&logo=adobelightroom"> </a>
+ <a href="">
+  <img src="https://img.shields.io/badge/Design-Figma-5bb500?style=flat&logo=figma"> </a>
 </span>
 </p>
 <br>
