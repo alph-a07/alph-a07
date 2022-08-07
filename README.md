@@ -56,13 +56,13 @@
 </p>
 <br>
 
-💻 Currently learning **DSA, Competitive coding, Flutter and Android APIs**
-
 🗒️ DSA Source Codes [Click Here](https://github.com/alph-a07/JavaSourceCodes)
 
 🏆 Achievements [Click Here](https://github.com/alph-a07/Achievements)
 
 🧑🏻‍💻 Leetcode Profile [Click Here](https://leetcode.com/alph_a07/)
+
+💡 Leetcode solutions [Click Here](https://github.com/alph-a07/JavaSourceCodes/tree/master/DSA/src/leetcode/editor/en)
 <br>
 <br>
 
@@ -71,13 +71,12 @@
 &nbsp;<a href="https://instagram.com/@atheist.23" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178805525-6f096bc5-daf9-4674-8b21-e63f26d917cd.png" alt="Instagram" width="35" /></a>&nbsp;
 &nbsp;<a href="https://twitter.com/atheist_23" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178806800-88755c6e-c429-4620-8ffd-23c9d299348e.png" alt="Twitter" width="35" /></a>&nbsp;
 &nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsjeel01@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178806196-94a94d5f-7ef1-4a9d-a080-ee4e1410e010.png" alt="Mail" width="35" /></a>
-
 </p>
 <br>
 
 <p align="center">
 <a href="http://www.github.com/alph-a07"><img src="https://github-readme-stats.vercel.app/api?username=alph-a07&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="alph-a07's GitHub stats" /></a>
-<a href="https://github.com/alph-a07" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/alph-a07"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
 <a href="http://www.github.com/alph-a07"><img src="https://activity-graph.herokuapp.com/graph?username=alph-a07&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
