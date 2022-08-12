@@ -62,7 +62,7 @@
 
 🧑🏻‍💻 Leetcode Profile [Click Here](https://leetcode.com/alph_a07/)
 
-💡 Leetcode solutions [Click Here](https://github.com/alph-a07/JavaSourceCodes/tree/master/DSA/src/leetcode/editor/en)
+💡 Leetcode solutions [Click Here](https://github.com/alph-a07/LEETCODE)
 <br>
 <br>
 
