@@ -56,14 +56,11 @@
 </p>
 <br>
 
-🗒️ DSA Source Codes [Click Here](https://github.com/alph-a07/JavaSourceCodes)
-
-🏆 Achievements [Click Here](https://github.com/alph-a07/Achievements)
-
-🧑🏻‍💻 Leetcode Profile [Click Here](https://leetcode.com/alph_a07/)
-
-💡 Leetcode solutions [Click Here](https://github.com/alph-a07/LEETCODE)
-<br>
+- DSA Source Codes [🔗](https://github.com/alph-a07/JavaSourceCodes) <br>
+- Achievements [🔗](https://github.com/alph-a07/Achievements) <br>
+- Leetcode Profile [🔗](https://leetcode.com/alph_a07/) <br>
+- Leetcode solutions [🔗](https://github.com/alph-a07/LEETCODE)
+- Business Management App [🔗](https://github.com/alph-a07/Business-Manager)
 <br>
 
 <p align="center">
