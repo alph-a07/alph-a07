@@ -3,8 +3,7 @@
 <br>
 <h2>Hey👋🏻, Jeel here.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alph-a07&label=Profile%20Views%20&color=ff3643&style=flat" alt="alph-a07" /> </p>
-<br>
+<img src="https://komarev.com/ghpvc/?username=alph-a07&label=Profile%20Views%20&color=ff3643&style=flat" alt="alph-a07" />
 
 <p align="center">
 <span>
@@ -44,9 +43,6 @@
   <img src="https://img.shields.io/badge/Design-Canva-5bb500?style=flat&logo=canva"> </a>
 <a href="https://firebase.google.com">
   <img src="https://img.shields.io/badge/Database-Firebase-5bb500?style=flat&logo=firebase"> </a>
-<a href="https://leetcode.com">
-  <img src="https://img.shields.io/badge/Competitive-LeetCode-5bb500?style=flat&logo=leetcode"> </a>
-  <a href="">
   <img src="https://img.shields.io/badge/Editing-Photoshop-5bb500?style=flat&logo=adobephotoshop"> </a>
   <a href="">
   <img src="https://img.shields.io/badge/Editing-Lightroom-5bb500?style=flat&logo=adobelightroom"> </a>
@@ -54,13 +50,6 @@
   <img src="https://img.shields.io/badge/Design-Figma-5bb500?style=flat&logo=figma"> </a>
 </span>
 </p>
-<br>
-
-- DSA Source Codes [🔗](https://github.com/alph-a07/JavaSourceCodes) <br>
-- Achievements [🔗](https://github.com/alph-a07/Achievements) <br>
-- Leetcode Profile [🔗](https://leetcode.com/alph_a07/) <br>
-- Leetcode solutions [🔗](https://github.com/alph-a07/LEETCODE)
-- Business Management App [🔗](https://github.com/alph-a07/Business-Manager)
 <br>
 
 <p align="center">
