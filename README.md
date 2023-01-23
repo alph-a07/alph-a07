@@ -20,8 +20,13 @@
 
 I am a Java developer with extensive experience in Android development and UI/UX design. I am currently taking my skills to the next level by learning Java EE for server-side programming.  
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
 
+<img src = "https://quotes-github-readme.vercel.app/api?&theme=dark">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=zmlll71oklbzfycqzycfnficv&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false"/>
+
+</p>
 ## 💻 Tech Stack:
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
@@ -41,9 +46,6 @@ I am a Java developer with extensive experience in Android development and UI/UX
 ## 📊 GitHub Stats:
 
 <a href="http://www.github.com/alph-a07"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=alph-a07&theme=github-compact" alt="GitHub Commits Graph" /></a><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=zmlll71oklbzfycqzycfnficv&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
 ---
