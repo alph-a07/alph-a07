@@ -1,68 +1,53 @@
-<a href ="https://github.com/alph-a07">![App Developer](https://user-images.githubusercontent.com/83648189/172589407-53ac5cb9-96e6-4a71-805b-b0ff938ae83c.png)</a>
+## Hey 👋, I'm Jeel Patel!  
 
-<br>
-<h2>Hey👋🏻, Jeel here.</h2>
+<a href="https://github.com/alph-a07" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/alpha07" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/atheist_23" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/atheist.23" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
 
+### Glad to see you here! 
 <img src="https://komarev.com/ghpvc/?username=alph-a07&label=Profile%20Views%20&color=ff3643&style=flat" alt="alph-a07" />
 
-<p align="center">
+
+<br> 
 <span>
-<a href="https://www.microsoft.com/en-in/windows/windows-11">
-<img src="https://img.shields.io/badge/OS-Windows-0099ff?style=flat&logo=windows"></a>  
-<a href="https://www.amazon.in/Dell-15-6-inch-i5-10300H-NVIDIA1650-D560253HIN9BE/dp/B08H9W26LF">
-<img src="https://img.shields.io/badge/Device-Dell G3-0099ff?style=flat&logo=dell"></a> 
-<br>  
-<a href="https://docs.oracle.com/javase/8/docs/">
-  <img src="https://img.shields.io/badge/Code-Java-ff00d4?style=flat&logo=java"> </a>
-<a href="https://kotlinlang.org/docs/home.html">
-  <img src="https://img.shields.io/badge/Code-Kotlin-ff00d4?style=flat&logo=kotlin"> </a>
-<a href="https://www.w3.org/XML/">
-  <img src="https://img.shields.io/badge/Code-XML-ff00d4?style=flat&logo=xaml"> </a>
-<a href="https://dart.dev/">
-  <img src="https://img.shields.io/badge/Code-Dart-ff00d4?style=flat&logo=dart"> </a>
-<a href="https://developer.android.com/">
-  <img src="https://img.shields.io/badge/Dev-Android-ff00d4?style=flat&logo=android"> </a>
-  <img src="https://img.shields.io/badge/Dev-Web-ff00d4?style=flat&logo=web"> 
-<br>
-<a href="https://www.jetbrains.com/idea/">
-  <img src="https://img.shields.io/badge/Editor-Intellij-ff5500?style=flat&logo=intellijidea"> </a> 
-<a href="https://developer.android.com/studio">
-  <img src="https://img.shields.io/badge/Editor-Android Studio-ff5500?style=flat&logo=androidstudio"> </a>
-<a href="https://code.visualstudio.com/">
-  <img src="https://img.shields.io/badge/Editor-VS Code-ff5500?style=flat&logo=visualstudiocode"> </a>
- <img src="https://img.shields.io/badge/Editor-Eclipse-ff5500?style=flat&logo=eclipseide"> 
-  <!---
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://img.shields.io/badge/Code-HTML-important?style=flat&logo=html5"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://img.shields.io/badge/Code-CSS-important?style=flat&logo=css3"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/Code-JavaScript-important?style=flat&logo=javascript"> </a> --->
-<br>  
-<a href="https://www.canva.com">
-  <img src="https://img.shields.io/badge/Design-Canva-5bb500?style=flat&logo=canva"> </a>
-<a href="https://firebase.google.com">
-  <img src="https://img.shields.io/badge/Database-Firebase-5bb500?style=flat&logo=firebase"> </a>
-  <img src="https://img.shields.io/badge/Editing-Photoshop-5bb500?style=flat&logo=adobephotoshop"> </a>
-  <a href="">
-  <img src="https://img.shields.io/badge/Editing-Lightroom-5bb500?style=flat&logo=adobelightroom"> </a>
- <a href="">
-  <img src="https://img.shields.io/badge/Design-Figma-5bb500?style=flat&logo=figma"> </a>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zmlll71oklbzfycqzycfnficv&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=zmlll71oklbzfycqzycfnficv&redirect=true)
+
+I am a Java developer with extensive experience in Android development and UI/UX design. I am currently taking my skills to the next level by learning Java EE for server-side programming.  
 </span>
-</p>
+
 <br>
 
-<p align="center">
-<a href="https://linkedin.com/in/jeel-patel-787258216" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178805748-d5532f88-e065-43b5-b157-61291bbb9066.png" alt="Linkedin" width="35" /></a>&nbsp;
-&nbsp;<a href="https://instagram.com/@atheist.23" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178805525-6f096bc5-daf9-4674-8b21-e63f26d917cd.png" alt="Instagram" width="35" /></a>&nbsp;
-&nbsp;<a href="https://twitter.com/atheist_23" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178806800-88755c6e-c429-4620-8ffd-23c9d299348e.png" alt="Twitter" width="35" /></a>&nbsp;
-&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsjeel01@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/83648189/178806196-94a94d5f-7ef1-4a9d-a080-ee4e1410e010.png" alt="Mail" width="35" /></a>
-</p>
-<br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<a href="http://www.github.com/alph-a07"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=alph-a07&theme=github-compact" alt="GitHub Commits Graph" /></a>
+## 💻 Tech Stack:
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" /></a>  
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="25" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" /></a>  
+<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
+</div>  
 
-<p align = "right">
-<a href="https://github.com/alph-a07"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
-</p>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alph-a07&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alph-a07&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
