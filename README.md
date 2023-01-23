@@ -26,7 +26,7 @@ I am a Java developer with extensive experience in Android development and UI/UX
 
 
 ## 💻 Tech Stack:
-<div align="center">  
+<div align="center" style="display: flex; justify-content: space-between;">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
@@ -43,7 +43,9 @@ I am a Java developer with extensive experience in Android development and UI/UX
 
 ## 📊 GitHub Stats:
 
-<a href="http://www.github.com/alph-a07"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=alph-a07&theme=github-compact" alt="GitHub Commits Graph" /></a><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
+<a href="http://www.github.com/alph-a07"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=alph-a07&theme=github-compact" alt="GitHub Commits Graph" /></a>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align = "right">
+
+
+
