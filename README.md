@@ -16,8 +16,6 @@
 ### Glad to see you here! 
 <img src="https://komarev.com/ghpvc/?username=alph-a07&label=Profile%20Views%20&color=ff3643&style=flat" alt="alph-a07" />
 
-<br> 
-
 I am a Java developer with extensive experience in Android development and UI/UX design. I am currently taking my skills to the next level by learning Java EE for server-side programming.  
 
 <p align="center">
