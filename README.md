@@ -62,6 +62,7 @@
 
 <a href="http://www.github.com/alph-a07"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=alph-a07&theme=github-compact" alt="GitHub Commits Graph" /></a>
 
+<p align = "right">
 <a href="https://github.com/alph-a07"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
-
+</p>
 
