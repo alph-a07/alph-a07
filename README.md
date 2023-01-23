@@ -19,7 +19,7 @@
 
 I am a Java developer with extensive experience in Android development and UI/UX design. I am currently taking my skills to the next level by learning Java EE for server-side programming.  
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center;" align = "center">
   <img src="https://quotes-github-readme.vercel.app/api?&theme=dark" style="display:inline-block;" height = 300>
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=zmlll71oklbzfycqzycfnficv&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" style="display:inline-block;" height = 300>
 </div>
