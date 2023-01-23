@@ -16,16 +16,9 @@
 ### Glad to see you here! 
 <img src="https://komarev.com/ghpvc/?username=alph-a07&label=Profile%20Views%20&color=ff3643&style=flat" alt="alph-a07" />
 
-
 <br> 
-<span>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zmlll71oklbzfycqzycfnficv&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=zmlll71oklbzfycqzycfnficv&redirect=true)
 
 I am a Java developer with extensive experience in Android development and UI/UX design. I am currently taking my skills to the next level by learning Java EE for server-side programming.  
-</span>
-
-<br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -46,8 +39,11 @@ I am a Java developer with extensive experience in Android development and UI/UX
 </div>  
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alph-a07&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alph-a07&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<a href="http://www.github.com/alph-a07"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=alph-a07&theme=github-compact" alt="GitHub Commits Graph" /></a><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=zmlll71oklbzfycqzycfnficv&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" align="center" style="width: 100%" />  
 
 ---
