@@ -22,8 +22,7 @@
   <img src="https://img.shields.io/badge/Code-Dart-ff00d4?style=flat&logo=dart"> </a>
 <a href="https://developer.android.com/">
   <img src="https://img.shields.io/badge/Dev-Android-ff00d4?style=flat&logo=android"> </a>
-<a href="https://flutter.dev/">
-  <img src="https://img.shields.io/badge/Dev-Flutter-ff00d4?style=flat&logo=flutter"> </a>
+  <img src="https://img.shields.io/badge/Dev-Web-ff00d4?style=flat&logo=web"> 
 <br>
 <a href="https://www.jetbrains.com/idea/">
   <img src="https://img.shields.io/badge/Editor-Intellij-ff5500?style=flat&logo=intellijidea"> </a> 
@@ -31,6 +30,7 @@
   <img src="https://img.shields.io/badge/Editor-Android Studio-ff5500?style=flat&logo=androidstudio"> </a>
 <a href="https://code.visualstudio.com/">
   <img src="https://img.shields.io/badge/Editor-VS Code-ff5500?style=flat&logo=visualstudiocode"> </a>
+ <img src="https://img.shields.io/badge/Editor-Eclipse-ff5500?style=flat&logo=eclipseide"> 
   <!---
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://img.shields.io/badge/Code-HTML-important?style=flat&logo=html5"> </a>
