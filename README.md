@@ -17,7 +17,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=alph-a07&label=Profile%20Views%20&color=ff3643&style=flat" alt="alph-a07" />
 
-I am a Java developer with extensive experience in Android development and UI/UX design. I am currently taking my skills to the next level by learning Java EE for server-side programming.  
+I am a Java developer with extensive experience in Android development and UI/UX design. I am currently learning Spring Java backend development.  
 
 <div style="display: flex; justify-content: space-between; align-items: center;" align = "center">
   <img src="https://quotes-github-readme.vercel.app/api?&theme=dark" style="display:inline-block;" height = 300>
