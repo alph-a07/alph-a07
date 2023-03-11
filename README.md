@@ -17,7 +17,7 @@
 </a>  
 
 
-Welcome to my GitHub profile! As a growing software developer, my expertise lies in several areas such as Android app development, UI/UX design, and backend development using Java SE/EE and Spring.
+**Welcome to my GitHub profile! As a growing software developer, my expertise lies in several areas such as Android app development, UI/UX design, and backend development using Java SE/EE and Spring.**__
 
 ## 💻 Tech Stack:
 <img src="https://img.icons8.com/color/48/000000/android-os.png"/> &nbsp;&nbsp; <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> &nbsp;&nbsp; <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> &nbsp;&nbsp; <img src="https://img.icons8.com/color/48/000000/xml.png"/> &nbsp;&nbsp; <img src="https://img.icons8.com/color/48/000000/canva.png"/> &nbsp;&nbsp; <img src="https://img.icons8.com/color/48/000000/figma.png"/> &nbsp;&nbsp; <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> &nbsp;&nbsp; <img src="https://img.icons8.com/color/48/000000/mysql.png"/> &nbsp;&nbsp; <img src="https://img.icons8.com/color/48/000000/firebase.png"/> &nbsp;&nbsp; <img src="https://icon-library.com/images/hibernate-icon/hibernate-icon-0.jpg" height=48 /> &nbsp;&nbsp; <img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png"/> &nbsp;&nbsp; <img src="https://img.icons8.com/color/48/000000/git.png"/> &nbsp;&nbsp; <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
