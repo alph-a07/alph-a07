@@ -17,6 +17,7 @@
 </a>  
 
 <br>
+<br>
 
 **_Welcome to my GitHub profile! As a growing software developer, my expertise lies in several areas such as Android app development, UI/UX design, and backend development using Java SE/EE and Spring._**
 
