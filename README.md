@@ -16,6 +16,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
+<br>
 
 **_Welcome to my GitHub profile! As a growing software developer, my expertise lies in several areas such as Android app development, UI/UX design, and backend development using Java SE/EE and Spring._**
 
