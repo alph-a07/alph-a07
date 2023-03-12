@@ -14,6 +14,8 @@
 </a>
 <a href="https://instagram.com/atheist.23" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://alpha07.carrd.co/" target="_blank">
+<img src=https://img.shields.io/badge/profile-%231E77B5.svg?&style=for-the-badge&logo=googlehome&logoColor=white alt=profile style="margin-bottom: 5px;" />
 </a>  
 
 <br>
