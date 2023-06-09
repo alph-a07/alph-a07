@@ -28,9 +28,8 @@
 
 ## 📊 GitHub Stats:
 
-<div>
 <a href="http://www.github.com/alph-a07"><img src="https://github-readme-activity-graph.vercel.app/graph?username=alph-a07&theme=github-compact" alt="GitHub Commits Graph" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align = "right">
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut">
+
 
