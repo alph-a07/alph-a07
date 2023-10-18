@@ -59,6 +59,7 @@
 - [x] Android
 - [x] Java
 
+<!--
 ## Some of my projects
 
 <p align="center">
@@ -68,6 +69,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alph-a07&repo=stream&theme=transparent&show_owner=true">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alph-a07&repo=guess-the-number&theme=transparent&show_owner=true">
 </p>
+-->
 
 ## Github Stats
 
