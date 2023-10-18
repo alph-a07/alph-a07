@@ -82,5 +82,5 @@
 ## Smile a bit
 
 <p align="center">
-    <img src="https://readme-jokes.vercel.app/api?bgColor=%230E1117&textColor=%23000000&qColor=%233569F8&aColor=%23000000&hideBorder" alt="Jokes Card" />
+    <img src="https://readme-jokes.vercel.app/api?bgColor=%230E1117&textColor=%23ffffff&qColor=%233569F8&aColor=%23ffffff&hideBorder" alt="Jokes Card" />
 </p>
