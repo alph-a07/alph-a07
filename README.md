@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=28&duration=3000&pause=1000000&color=F75858FF&center=true&vCenter=true&random=false&width=1000&height=32&lines=Hello+there%2C+My+name+is+Jeel!">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=32&duration=3000&pause=1000000&color=F75858FF&center=true&vCenter=true&random=false&width=1000&height=32&lines=Hello+there%2C+My+name+is+Jeel!">
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=24&duration=10&pause=500&color=ffffff&center=true&vCenter=true&random=false&width=1000&height=32&lines=Learn%2C;Develop%2C;Repeat.">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=28&duration=10&pause=500&color=ffffff&center=true&vCenter=true&random=false&width=1000&height=32&lines=Learn%2C;Develop%2C;Repeat.">
 </p>
 
 <!-- SOCIALS -->
