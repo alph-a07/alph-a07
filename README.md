@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=28&duration=3000&pause=1000000&color=0789F7&center=true&vCenter=true&random=false&width=1000&height=32&lines=Hello+there%2C+My+name+is+Jeel!">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=28&duration=3000&pause=1000000&color=F75858FF&center=true&vCenter=true&random=false&width=1000&height=32&lines=Hello+there%2C+My+name+is+Jeel!">
 </p>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=24&duration=10&pause=500&color=ffffff&center=true&vCenter=true&random=false&width=1000&height=32&lines=Learn%2C;Develop%2C;Repeat.">
@@ -28,11 +28,12 @@
 
 <!-- ABOUT ME -->
 <p align="center">
-    Welcome to my GitHub profile! I am in final year of B.Tech graduation at NITK Surathkal. As a learning software developer, I keep jumping from one topic to another, practice some projects and move forward to another topic. My profficiency lies in Java and Android App Development(for now).
+    Welcome to my GitHub profile! I am in the final year of my B.Tech graduation at NITK Surathkal. As a learning software developer, I often switch from one topic to another, practice on some projects, and then move on to the next. My proficiency lies in Java and Android App Development (for now).
 </p>
 
 <p>
-Currently working on,
+
+### Learning progress
 
 - [ ] JavaScript
 - [ ] CSS
