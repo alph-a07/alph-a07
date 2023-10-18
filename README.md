@@ -33,7 +33,7 @@
 
 <p>
 
-## Learning progress
+<h2> Learning progress </h2>
 
 - [ ] JavaScript
 - [ ] CSS
