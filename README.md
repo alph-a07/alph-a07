@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=28&duration=3000&pause=1000000&color=0789F7&center=true&vCenter=true&random=false&width=1000&height=32&lines=Hello+there%2C+My+name+is+Jeel!">
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=20&duration=10&pause=500&color=ffffff&center=true&vCenter=true&random=false&width=1000&height=32&lines=Learn%2C;Develop%2C;Repeat.">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=24&duration=10&pause=500&color=ffffff&center=true&vCenter=true&random=false&width=1000&height=32&lines=Learn%2C;Develop%2C;Repeat.">
 </p>
 
 <!-- SOCIALS -->
@@ -30,15 +30,16 @@
 <p align="center">
     Welcome to my GitHub profile! I am in final year of B.Tech graduation at NITK Surathkal. As a learning software developer, I keep jumping from one topic to another, practice some projects and move forward to another topic. My profficiency lies in Java and Android App Development(for now).
 </p>
-### Solar System Exploration, 1950s – 1960s
-<!-- <p align="center"> -->
-    Currently working on,
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-<!-- </p> -->
+<p>
+Currently working on,
+
+- [ ] JavaScript
+- [ ] CSS
+- [x] HTML
+- [x] Android
+- [x] Java
+</p>
 
 ## 💻 Tech Stack:
 <img src="https://img.icons8.com/color/48/000000/android-os.png"/> &nbsp;&nbsp; 
