@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=32&duration=3000&pause=1000000&color=F75858FF&center=true&vCenter=true&random=false&width=1000&height=32&lines=Hello+there%2C+My+name+is+Jeel!">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=36&duration=3000&pause=1000000&color=F75858FF&center=true&vCenter=true&random=false&width=1000&height=32&lines=Hello+there%2C+My+name+is+Jeel!">
 </p>
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=28&duration=10&pause=500&color=ffffff&center=true&vCenter=true&random=false&width=1000&height=32&lines=Learn%2C;Develop%2C;Repeat.">
@@ -9,19 +9,19 @@
 <!-- SOCIALS -->
 <p align="center">
     <a href="https://www.linkedin.com/in/itsjeel01">
-        <img src="https://img.shields.io/badge/linkedin-%232D60BA.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=26>
+        <img src="https://img.shields.io/badge/linkedin-%232D60BA.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=24>
     </a> 
     <a href="https://www.instagram.com/itsjeel01">
-        <img src="https://img.shields.io/badge/instagram-%23D1496A.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=26>
+        <img src="https://img.shields.io/badge/instagram-%23D1496A.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=24>
     </a> 
     <a href="https://twitter.com/alph_a07">
-        <img src="https://img.shields.io/badge/twitter-%234E9BEB.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=26>
+        <img src="https://img.shields.io/badge/twitter-%234E9BEB.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=24>
     </a> 
 </p>
 
 <!-- VISIT COUNTER -->
 <p align="center">
-    <img src="https://profile-counter.glitch.me/alph-a07/count.svg">
+    <img src="https://profile-counter.glitch.me/alph-a07/count.svg" height=24>
 </p>
 
 <hr>
