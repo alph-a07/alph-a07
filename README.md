@@ -1,27 +1,44 @@
-## Hey 👋, I'm Jeel Patel!  
+<!-- HEADER -->
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=28&duration=3000&pause=1000000&color=0789F7&center=true&vCenter=true&random=false&width=1000&height=32&lines=Hello+there%2C+My+name+is+Jeel!">
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=20&duration=10&pause=500&color=ffffff&center=true&vCenter=true&random=false&width=1000&height=32&lines=Learn%2C;Develop%2C;Repeat.">
+</p>
 
+<!-- SOCIALS -->
+<p align="center">
+    <a href="https://www.linkedin.com/in/itsjeel01">
+        <img src="https://img.shields.io/badge/linkedin-%232D60BA.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=26>
+    </a> 
+    <a href="https://www.instagram.com/itsjeel01">
+        <img src="https://img.shields.io/badge/instagram-%23D1496A.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=26>
+    </a> 
+    <a href="https://twitter.com/alph_a07">
+        <img src="https://img.shields.io/badge/twitter-%234E9BEB.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=26>
+    </a> 
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=alph-a07&label=Profile%20Views%20&color=ff3643&style=flat" alt="alph-a07" />
+<!-- VISIT COUNTER -->
+<p align="center">
+    <img src="https://profile-counter.glitch.me/alph-a07/count.svg">
+</p>
 
-<a href="https://github.com/alph-a07" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/alpha07" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/atheist_23" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/atheist.23" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-<a href="https://alpha07.carrd.co/" target="_blank">
-<img src=https://img.shields.io/badge/profile-%231E77B5.svg?&style=for-the-badge&logo=googlehome&logoColor=white alt=profile style="margin-bottom: 5px;" />
-</a>  
+<hr>
 
-<br>
-<br>
+<!-- ABOUT ME -->
+<p align="center">
+    Welcome to my GitHub profile! I am in final year of B.Tech graduation at NITK Surathkal. As a learning software developer, I keep jumping from one topic to another, practice some projects and move forward to another topic. My profficiency lies in Java and Android App Development(for now).
+</p>
+### Solar System Exploration, 1950s – 1960s
+<!-- <p align="center"> -->
+    Currently working on,
 
-**_Welcome to my GitHub profile! As a growing software developer, my expertise lies in several areas such as Android app development, UI/UX design, and backend development using Java SE/EE and Spring._**
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+<!-- </p> -->
 
 ## 💻 Tech Stack:
 <img src="https://img.icons8.com/color/48/000000/android-os.png"/> &nbsp;&nbsp; 
