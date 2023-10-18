@@ -31,16 +31,6 @@
     Welcome to my GitHub profile! I am in the final year of my B.Tech graduation at NITK Surathkal. As a learning software developer, I often switch from one topic to another, practice on some projects, and then move on to the next. My proficiency lies in Java and Android App Development (for now).
 </p>
 
-<p>
-
-<h2> Learning progress </h2>
-
-- [ ] JavaScript
-- [ ] CSS
-- [x] HTML
-- [x] Android
-- [x] Java
-
 ## Tools and Technologies
 
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -61,11 +51,36 @@
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-D44C2C.svg?logo=figma&logoColor=white"></a>
 <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-ED702B.svg?logo=firebase&logoColor=white"></a>
 
+## Learning progress
 
-## 📊 GitHub Stats:
+- [ ] JavaScript
+- [ ] CSS
+- [x] HTML
+- [x] Android
+- [x] Java
 
-<a href="http://www.github.com/alph-a07"><img src="https://github-readme-activity-graph.vercel.app/graph?username=alph-a07&theme=github-compact" alt="GitHub Commits Graph" /></a>
+## Some of my projects
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=donut">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alph-a07&repo=ChatBox&theme=transparent&show_owner=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alph-a07&repo=rock-and-roll&theme=transparent&show_owner=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alph-a07&repo=clips&theme=transparent&show_owner=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alph-a07&repo=stream&theme=transparent&show_owner=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alph-a07&repo=guess-the-number&theme=transparent&show_owner=true">
+</p>
 
+## Github Stats
 
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=alph-a07&theme=transparent&hide_border=false"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&layout=compact&theme=transparent"/>
+</p>
+
+## Smile a bit
+
+<p align="center">
+    <img src="https://readme-jokes.vercel.app/api?bgColor=%230E1117&textColor=%23000000&qColor=%233569F8&aColor=%23000000&hideBorder" alt="Jokes Card" />
+</p>
