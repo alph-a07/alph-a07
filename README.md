@@ -9,13 +9,13 @@
 <!-- SOCIALS -->
 <p align="center">
     <a href="https://www.linkedin.com/in/itsjeel01">
-        <img src="https://img.shields.io/badge/linkedin-%232D60BA.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=24>
-    </a> 
-    <a href="https://www.instagram.com/itsjeel01">
-        <img src="https://img.shields.io/badge/instagram-%23D1496A.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=24>
-    </a> 
-    <a href="https://twitter.com/alph_a07">
-        <img src="https://img.shields.io/badge/twitter-%234E9BEB.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=24>
+        <img src="https://img.shields.io/badge/linkedin-%232D60BA.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+    </a> <a href="https://www.instagram.com/itsjeel01">
+        <img src="https://img.shields.io/badge/instagram-%23D1496A.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+    </a> <a href="https://www.reddit.com/user/ALPH_A07">
+        <img src="https://img.shields.io/badge/reddit-%23EB4825.svg?&style=for-the-badge&logo=reddit&logoColor=white">
+    </a> <a href="https://twitter.com/alph_a07">
+        <img src="https://img.shields.io/badge/twitter-%234E9BEB.svg?&style=for-the-badge&logo=twitter&logoColor=white">
     </a> 
 </p>
 
@@ -73,16 +73,12 @@
 
 ## Github Stats
 
-<p align="center">
+<p>
     <img src="https://streak-stats.demolab.com?user=alph-a07&theme=transparent&hide_border=false"/>
-</p>
-
-<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&layout=compact&theme=transparent"/>
 </p>
 
 ## Smile a bit
-
-<p align="center">
+<p>
     <img src="https://readme-jokes.vercel.app/api?bgColor=%230E1117&textColor=%23ffffff&qColor=%233569F8&aColor=%23ffffff&hideBorder" alt="Jokes Card" />
 </p>
