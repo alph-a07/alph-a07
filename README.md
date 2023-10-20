@@ -8,7 +8,7 @@
 
 <!-- SOCIALS -->
 <p align="center">
-    _<a href="https://www.linkedin.com/in/itsjeel01">
+    <a href="https://www.linkedin.com/in/itsjeel01">
         <img src="https://img.shields.io/badge/linkedin-%232D60BA.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>_<a href="https://www.instagram.com/itsjeel01">
         <img src="https://img.shields.io/badge/instagram-%23D1496A.svg?&style=for-the-badge&logo=instagram&logoColor=white">
@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/reddit-%23EB4825.svg?&style=for-the-badge&logo=reddit&logoColor=white">
     </a>_<a href="https://twitter.com/alph_a07">
         <img src="https://img.shields.io/badge/twitter-%234E9BEB.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-    </a>_
+    </a>
 </p>
 
 <!-- VISIT COUNTER -->
