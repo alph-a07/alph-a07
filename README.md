@@ -14,6 +14,8 @@
         <img src="https://img.shields.io/badge/instagram-%23D1496A.svg?&style=for-the-badge&logo=instagram&logoColor=white">
     </a>_<a href="https://www.reddit.com/user/ALPH_A07">
         <img src="https://img.shields.io/badge/reddit-%23EB4825.svg?&style=for-the-badge&logo=reddit&logoColor=white">
+    </a>_<a href="mailto:alph.a07dev@gmail.com">
+        <img src="https://img.shields.io/badge/mail-%2357A85A.svg?&style=for-the-badge&logo=gmail&logoColor=white">
     </a>_<a href="https://twitter.com/alph_a07">
         <img src="https://img.shields.io/badge/twitter-%234E9BEB.svg?&style=for-the-badge&logo=twitter&logoColor=white">
     </a>
@@ -74,11 +76,13 @@
 ## Github Stats
 
 <p>
-    <img src="https://streak-stats.demolab.com?user=alph-a07&theme=transparent&hide_border=false"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&layout=compact&theme=transparent"/>
+    <img src="https://github-readme-streak-stats-seven-wheat.vercel.app?user=alph-a07&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="Streak card">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Languages card">
 </p>
 
+<!--
 ## Smile a bit
 <p>
     <img src="https://readme-jokes.vercel.app/api?bgColor=%230E1117&textColor=%23ffffff&qColor=%233569F8&aColor=%23ffffff&hideBorder" alt="Jokes Card" />
 </p>
+-->
