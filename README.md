@@ -18,7 +18,8 @@
         <img src="https://img.shields.io/badge/mail-%2357A85A.svg?&style=for-the-badge&logo=gmail&logoColor=white">
     </a>_<a href="https://twitter.com/alph_a07">
         <img src="https://img.shields.io/badge/twitter-%234E9BEB.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
+    </a>_<a href="https://www.pexels.com/@jeel-patel-97163349/">
+        <img src="https://img.shields.io/badge/pexels-%2348A082.svg?&style=for-the-badge&logo=pexels&logoColor=white">
 </p>
 
 <!-- VISIT COUNTER -->
