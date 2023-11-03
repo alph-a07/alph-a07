@@ -3,22 +3,22 @@
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=36&duration=3000&pause=1000000&color=F75858FF&center=true&vCenter=true&random=false&width=1000&height=32&lines=Hello+there%2C+My+name+is+Jeel!">
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=28&duration=10&pause=500&color=ffffff&center=true&vCenter=true&random=false&width=1000&height=32&lines=Learn%2C;Develop%2C;Repeat.">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=28&duration=10&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&height=32&lines=Learn%2C;Develop%2C;Repeat.">
 </p>
 
 <!-- SOCIALS -->
 <p align="center">
     <a href="https://www.linkedin.com/in/itsjeel01">
         <img src="https://img.shields.io/badge/linkedin-%232D60BA.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>_<a href="https://www.instagram.com/itsjeel01">
+    </a><a href="https://www.instagram.com/itsjeel01">
         <img src="https://img.shields.io/badge/instagram-%23D1496A.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-    </a>_<a href="https://www.reddit.com/user/ALPH_A07">
+    </a><a href="https://www.reddit.com/user/ALPH_A07">
         <img src="https://img.shields.io/badge/reddit-%23EB4825.svg?&style=for-the-badge&logo=reddit&logoColor=white">
-    </a>_<a href="mailto:alph.a07dev@gmail.com">
+    </a><a href="mailto:alph.a07dev@gmail.com">
         <img src="https://img.shields.io/badge/mail-%2357A85A.svg?&style=for-the-badge&logo=gmail&logoColor=white">
-    </a>_<a href="https://twitter.com/alph_a07">
+    </a><a href="https://twitter.com/alph_a07">
         <img src="https://img.shields.io/badge/twitter-%234E9BEB.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-    </a>_<a href="https://www.pexels.com/@jeel-patel-97163349/">
+    </a><a href="https://www.pexels.com/@jeel-patel-97163349/">
         <img src="https://img.shields.io/badge/pexels-%2348A082.svg?&style=for-the-badge&logo=pexels&logoColor=white">
 </p>
 
