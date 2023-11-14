@@ -61,6 +61,7 @@
 - [ ] CSS
 - [ ] DSA (Never going to be ticked)
 - [x] HTML
+- [ ] Flutter
 - [x] Android
 - [x] Java
 
