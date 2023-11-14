@@ -46,6 +46,7 @@
 <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-1a1a1a.svg?logo=notion&logoColor=white"></a>
 <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20Lightroom-FF0000.svg?logo=adobelightroom&logoColor=white"></a>
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-51A64B?logo=android&logoColor=white"></a>
+<a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-004B97?logo=flutter&logoColor=white"></a>
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub-8034A9.svg?logo=github&logoColor=white"></a>
@@ -58,6 +59,7 @@
 
 - [ ] JavaScript
 - [ ] CSS
+- [ ] DSA (Never going to be ticked)
 - [x] HTML
 - [x] Android
 - [x] Java
