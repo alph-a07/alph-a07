@@ -31,8 +31,19 @@
 
 <!-- ABOUT ME -->
 <p align="center">
-    Welcome to my GitHub profile! I am in the final year of my B.Tech graduation at NITK Surathkal. As a learning software developer, I often switch from one topic to another, practice on some projects, and then move on to the next. My proficiency lies in Java and Android App Development (for now).
+    🎓 Final-year B.Tech student at NITK Surathkal | 🌱 Exploring the vast realms of software development | 🚀 Passionate about crafting innovative solutions
+    <hr>
 </p>
+
+<p>
+🌱 <b>Constant Learner:</b> I love exploring new tech territories, building projects, and learning from each experience. 
+    
+🚀 <b>Mission:</b> My goal is to blend theory with practice, creating practical solutions that make a difference. I'm all about crafting user-friendly innovations.
+    
+🛠️ <b>Projects:</b> Check out my repositories! From solid Android apps to Flutter adventures and web exploration, it's all there.
+
+👨‍💻 <b>Next Step:</b> Soon, I'll be joining Verizon India as an Engineer II, ready to take on fresh challenges and contribute to exciting projects.
+<p>
 
 ## Tools and Technologies
 
