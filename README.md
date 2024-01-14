@@ -35,6 +35,7 @@
     <hr>
 </p>
 
+<!-- Description -->
 <p>
 🌱 <b>Constant Learner:</b> I love exploring new tech territories, building projects, and learning from each experience. 
     
