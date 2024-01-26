@@ -29,7 +29,7 @@
 
 <hr>
 
-<!-- ABOUT ME -->
+<!-- ABOUT ME  -->
 <p align="center">
     🎓 Final-year B.Tech student at NITK Surathkal | 🌱 Exploring the vast realms of software development | 🚀 Passionate about crafting innovative solutions
     <hr>
