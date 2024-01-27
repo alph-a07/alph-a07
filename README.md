@@ -1,9 +1,10 @@
-<!-- HEADER -->
+<!-- HEADER 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=36&duration=3000&pause=1000000&color=97b9f0&center=true&vCenter=true&random=false&width=1000&height=32&lines=Hello+there%2C+My+name+is+Jeel!">
 </p>
+-->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=28&duration=10&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&height=32&lines=Learn%2C;Develop%2C;Repeat.">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=alph-a07&data=followers,repositories,stars,commits&theme=metropolis">
 </p>
 
 <!-- SOCIALS -->
@@ -27,6 +28,10 @@
     <img src="https://profile-counter.glitch.me/alph-a07/count.svg" height=24>
 </p>
 
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=28&duration=10&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&height=28&lines=Learn%2C;Develop%2C;Repeat.">
+</p>
+
 <hr>
 
 <!-- ABOUT ME  -->
@@ -48,14 +53,20 @@
 
 ## Tools and Technologies
 
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-222222.svg?logo=markdown&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
+<a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/Node.Js-008C39.svg?logo=nodedotjs&logoColor=white"></a>
+<a href="#"><img alt="ExpressJs" src="https://img.shields.io/badge/Express.Js-212121.svg?logo=express&logoColor=white"></a>
+<a href="#"><img alt="Mongo" src="https://img.shields.io/badge/MongoDB-001E2B.svg?logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-9B0000.svg?logo=mongoose&logoColor=white"></a>
+<a href="#"><img alt="JSON" src="https://img.shields.io/badge/JSON-FFE65A.svg?logo=json&logoColor=black"></a>
+<a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-FA00FF.svg?logo=jsonwebtokens&logoColor=white"></a>
+<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-222222.svg?logo=markdown&logoColor=white"></a>
+<a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-1a1a1a.svg?logo=notion&logoColor=white"></a>
+<a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-6F00B0.svg?logo=obsidian&logoColor=white"></a>
 <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20Lightroom-FF0000.svg?logo=adobelightroom&logoColor=white"></a>
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-51A64B?logo=android&logoColor=white"></a>
 <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-004B97?logo=flutter&logoColor=white"></a>
