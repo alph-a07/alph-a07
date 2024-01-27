@@ -4,7 +4,7 @@
 </p>
 -->
 <p align="center">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=alph-a07&data=followers,repositories,stars,commits&theme=metropolis">
+    <img src="https://github.com/alph-a07/alph-a07/blob/main/github-header-image.png">
 </p>
 
 <!-- SOCIALS -->
