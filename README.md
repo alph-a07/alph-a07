@@ -4,7 +4,7 @@
 </p>
 -->
 <p align="center">
-    <img src="https://github.com/alph-a07/alph-a07/blob/main/github-header-image.png">
+    <img src="https://github.com/alph-a07/alph-a07/blob/main/github-header.png">
 </p>
 
 <!-- SOCIALS -->
