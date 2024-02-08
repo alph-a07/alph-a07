@@ -1,10 +1,11 @@
 <!-- HEADER 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=36&duration=3000&pause=1000000&color=97b9f0&center=true&vCenter=true&random=false&width=1000&height=32&lines=Hello+there%2C+My+name+is+Jeel!">
+    <img src="https://github.com/alph-a07/alph-a07/assets/83648189/7ef1186e-25a3-4bc8-bd31-8116350806c3">
 </p>
 -->
+
 <p align="center">
-    <img src="https://github.com/alph-a07/alph-a07/assets/83648189/7ef1186e-25a3-4bc8-bd31-8116350806c3">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&duration=3000&pause=1000000&color=97b9f0&center=true&vCenter=true&random=false&width=1000&height=32&lines=Jeel+Patel+%7C+Software+Developer+%7C+Tech+Enthusiast">
 </p>
 
 <!-- SOCIALS -->
