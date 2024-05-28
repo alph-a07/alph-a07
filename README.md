@@ -81,7 +81,8 @@
 
 ## Learning progress
 
-- [ ] Node.Js
+- [ ] React
+- [x] Node.Js
 - [x] JavaScript
 - [ ] CSS
 - [ ] DSA (Never going to be ticked)
