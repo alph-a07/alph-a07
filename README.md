@@ -49,7 +49,7 @@ Catchy tagline with typing animation
 Brief about me section with a fun and inviting tone 
 -->
 <p align="center">
-    I am an Engineer - II at Verizon India 🚀. Software and tech have always excited me. Whether it's mobile apps or web apps, I'm always ready to take on the challenge 💪. Just bring your designs(to be at good terms 😝), and let's create something amazing together!
+ I’m an Engineer - II at Verizon India, and I’m passionate about software and tech. Whether it’s mobile apps or web apps, I’m always up for a challenge. Just bring your designs (make sure they’re in good shape, haha), and let’s create something incredible together!
 </p>
 
 <hr>
@@ -57,60 +57,16 @@ Brief about me section with a fun and inviting tone
 <!-- 
 Tools and technologies section with badges 
 -->
-## Tools and Technologies
+## 🛠️ Tools and Technologies
 
-<p align="center">
-    <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="NodeJs" src="https://img.shields.io/badge/Node.Js-008C39.svg?logo=nodedotjs&logoColor=white"></a>
-    <a href="#"><img alt="ExpressJs" src="https://img.shields.io/badge/Express.Js-212121.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="Mongo" src="https://img.shields.io/badge/MongoDB-001E2B.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-9B0000.svg?logo=mongoose&logoColor=white"></a>
-    <a href="#"><img alt="JSON" src="https://img.shields.io/badge/JSON-FFE65A.svg?logo=json&logoColor=black"></a>
-    <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-FA00FF.svg?logo=jsonwebtokens&logoColor=white"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-222222.svg?logo=markdown&logoColor=white"></a>
-    <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-6F00B0.svg?logo=obsidian&logoColor=white"></a>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20Lightroom-FF0000.svg?logo=adobelightroom&logoColor=white"></a>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-51A64B?logo=android&logoColor=white"></a>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-004B97?logo=flutter&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub-8034A9.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-843DF8.svg?logo=canva&logoColor=white"></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-D44C2C.svg?logo=figma&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-ED702B.svg?logo=firebase&logoColor=white"></a>
-</p>
+   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!-- 
-Learning progress section with checkboxes 
--->
-## Learning Progress
+## 📊 GitHub Stats:
 
-- [ ] React
-- [x] Node.Js
-- [x] JavaScript
-- [ ] CSS
-- [ ] DSA (Never going to be ticked)
-- [x] HTML
-- [ ] Flutter
-- [x] Android
-- [x] Java
-
-## Github Stats
-
-<p>
-    <img src="https://github-readme-streak-stats-seven-wheat.vercel.app?user=alph-a07&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="Streak card">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Languages card">
-</p>
+![](https://github-readme-stats.vercel.app/api?username=alph-a07&theme=dark&hide_border=false&count_private=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-## Smile a bit
-<p>
-    <img src="https://readme-jokes.vercel.app/api?bgColor=%230E1117&textColor=%23ffffff&qColor=%233569F8&aColor=%23ffffff&hideBorder" alt="Jokes Card" />
-</p>
+
+
 
