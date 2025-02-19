@@ -2,7 +2,7 @@
 Centered heading with a typing animation for name and title 
 -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=40&duration=3000&pause=1000000&color=97b9f0&center=true&vCenter=true&random=false&width=1000&height=48&lines=Jeel+Patel+%7C+Software+Developer">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=40&duration=3000&pause=1000000&color=97b9f0&center=true&vCenter=true&random=false&width=1000&lines=Jeel+Patel+%7C+Software+Developer">
 </p>
 
 <!-- 
@@ -40,7 +40,7 @@ Profile visit counter
 Catchy tagline with typing animation 
 -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=28&duration=10&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&height=28&lines=Learn%2C;Develop%2C;Repeat." alt="Learn, Develop, Repeat">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=400&size=28&duration=10&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=Learn%2C;Develop%2C;Repeat." alt="Learn, Develop, Repeat">
 </p>
 
 <hr>
