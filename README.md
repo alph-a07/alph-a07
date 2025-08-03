@@ -33,7 +33,7 @@ Social media links with badges for easy navigation
 Profile visit counter 
 -->
 <p align="center">
-    <img src="https://profile-counter.glitch.me/alph-a07/count.svg" height=24 alt="Profile Visit Counter">
+    <img src="https://profile-counter.deno.dev/alph-a07/count.svg" height=24 alt="Profile Visit Counter">
 </p>
 
 <!-- 
