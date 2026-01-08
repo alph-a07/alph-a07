@@ -62,8 +62,8 @@ Tools and technologies section with badges
 
 <hr>
 
-![](https://github-readme-stats.vercel.app/api?username=alph-a07&theme=dark&hide_border=false&count_private=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alph-a07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-iota-tawny-22.vercel.app/api?username=alph-a07&theme=dark&hide_border=false&count_private=false) 
+![](https://github-readme-stats-iota-tawny-22.vercel.app/api/top-langs/?username=alph-a07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 <picture>
