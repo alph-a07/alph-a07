@@ -63,11 +63,11 @@ Tools and technologies section with badges
 <hr>
 
 <p align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=alph-a07&rank_icon=percentile&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=ambient_gradient">
-    <img src="https://github-stats-extended.vercel.app/api?username=alph-a07&rank_icon=percentile&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub Stats">
-  </a>
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=alph-a07&langs_count=9&hide_values=true&theme=ambient_gradient">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=alph-a07&langs_count=9&hide_values=true&theme=dark_github" alt="Top Languages">
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api?username=alph-a07&rank_icon=percentile&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=ambient_gradient">
+    <img src="https://github-stats-extended.vercel.app/api?username=alph-a07&rank_icon=percentile&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github" alt="GitHub Stats">
   </a>
 </p>
 
