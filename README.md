@@ -62,9 +62,13 @@ Tools and technologies section with badges
 
 <hr>
 
-![](https://github-readme-stats-iota-tawny-22.vercel.app/api?username=alph-a07&theme=dark&hide_border=false&count_private=false) 
-![](https://github-readme-stats-iota-tawny-22.vercel.app/api/top-langs/?username=alph-a07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<span>
+    
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=alph-a07&rank_icon=percentile&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=alph-a07&rank_icon=percentile&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=ambient_gradient)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=alph-a07&langs_count=9&hide_values=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=alph-a07&langs_count=9&hide_values=true&theme=ambient_gradient)
+
+</span>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alph-a07/alph-a07/output/github-snake-dark.svg" />
